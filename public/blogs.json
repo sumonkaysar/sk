@@ -1,0 +1,29 @@
+[
+  {
+    "id": "mern-best-practices",
+    "title": "Mastering MERN Stack Best Practices",
+    "shortDescription": "Learn the best practices for building scalable MERN applications with clean architecture and optimized performance.",
+    "content": "The MERN stack (MongoDB, Express, React, Node) is a powerful combination for building full-stack apps. In this guide, we explore best practices for folder structure, API optimization, and frontend performance improvements...",
+    "coverImage": "/blogs/mern.jpg",
+    "tags": ["MERN", "Best Practices", "Web Development"],
+    "createdAt": "2025-08-25"
+  },
+  {
+    "id": "react-performance-optimization",
+    "title": "Top 10 React Performance Optimization Tips",
+    "shortDescription": "Boost your React app performance with these essential optimization techniques.",
+    "content": "React is fast, but improper coding patterns can slow down your app significantly. Here are 10 advanced techniques to supercharge your React app's performance, including code splitting, lazy loading, memoization, and server-side rendering...",
+    "coverImage": "/blogs/react-performance.jpg",
+    "tags": ["React", "Optimization", "Frontend"],
+    "createdAt": "2025-08-15"
+  },
+  {
+    "id": "mongodb-aggregation-pipelines",
+    "title": "MongoDB Aggregation Pipelines Explained",
+    "shortDescription": "A complete guide to mastering MongoDB aggregation pipelines with real-world examples.",
+    "content": "MongoDB aggregation pipelines are one of the most powerful features for transforming and analyzing data. In this article, we'll dive deep into stages like $match, $group, $project, and $lookup with practical use cases...",
+    "coverImage": "/blogs/mongodb-pipeline.png",
+    "tags": ["MongoDB", "Database", "Backend"],
+    "createdAt": "2025-07-28"
+  }
+]
