@@ -1,0 +1,101 @@
+[
+  {
+    "_id": "1",
+    "name": "PayBondhu",
+    "title": "PAY BONDHU – Digital Wallet Platform",
+    "description": "A modern, secure, and scalable digital wallet platform with multi-role access (Admin, Agent, User), wallet management, transactions, and JWT authentication.",
+    "longDescription": "PayBondhu is a full-stack digital wallet system built with Express.js, TypeScript, MongoDB, and React. It supports multiple roles like Admin, Agent, and User, providing seamless wallet management, money transfers, cash-in, and cash-out functionalities. The platform uses JWT authentication, role-based authorization, and secured APIs for better data protection.",
+    "image": "/projects/PayBondhu.png",
+    "techStack": [
+      "React.js",
+      "Redux.js",
+      "TailwindCSS",
+      "Shadcn UI",
+      "TypeScript",
+      "Express.js",
+      "MongoDB",
+      "Mongoose",
+      "JWT",
+      "Bcryptjs"
+    ],
+    "features": [
+      "User-friendly dashboard with analytics",
+      "Role-based authentication & authorization",
+      "Wallet management with transaction history",
+      "Cash-in / Cash-out functionality",
+      "Secure JWT-based login",
+      "Modern responsive UI"
+    ],
+    "category": "FinTech",
+    "githubFrontend": "https://github.com/sumonkaysar/PayBondhu-client",
+    "githubBackend": "https://github.com/sumonkaysar/PayBondhu-server",
+    "liveDemo": "https://pay-bondhu.vercel.app"
+  },
+  {
+    "_id": "2",
+    "name": "Used Cars Mart",
+    "title": "USED CARS MART – Buy or Sell Used Cars",
+    "description": "A complete platform for buying and selling used cars with role-based access for sellers, buyers, and admins.",
+    "longDescription": "USED CARS MART is a full-featured car marketplace platform that allows users to buy, sell, and manage cars easily. Sellers can create and manage listings with detailed descriptions, buyers can track purchase orders and delivery status, and admins can oversee all activities with full control. Built with React, Node.js, Express, MongoDB, and JWT, it ensures security, performance, and a seamless experience.",
+    "image": "/projects/UsedCarsMart.png",
+    "techStack": [
+      "React",
+      "Firebase",
+      "TailwindCSS",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "JWT"
+    ],
+    "features": [
+      "Sellers: Add and manage car listings",
+      "Buyers: View and manage purchase orders",
+      "Track delivery status for buyers",
+      "Admin: Manage sellers, buyers, and platform activities",
+      "Secure authentication with JWT",
+      "Modern responsive UI"
+    ],
+    "category": "E-commerce",
+    "githubFrontend": "https://github.com/sumonkaysar/used-cars-mart-client",
+    "githubBackend": "https://github.com/sumonkaysar/used-cars-mart-server",
+    "liveDemo": "https://used-cars-mart.web.app"
+  },
+  {
+    "_id": "3",
+    "name": "Perform Tracker",
+    "title": "PERFORM TRACKER – Track and Evaluate Company Performance",
+    "description": "A comprehensive platform to manage employees, clients, teams, projects, and tasks with dedicated dashboards for Admins, Employees, and Clients.",
+    "longDescription": "PERFORM TRACKER is a collaborative performance tracking system designed to monitor, manage, and evaluate company activities effectively. It provides dedicated dashboards for Admins, Employees, and Clients, making it easier to manage employees, projects, teams, tasks, and payroll. I contributed to several core features, including Employee Profiles, Projects, Teams, Payroll, Blogs, Pricing Plans, Auth State Management, and Dynamic Dashboards. Built using React, Redux, Firebase, Node.js, Express, and MongoDB, the platform delivers a seamless, real-time experience with responsive UI and secure authentication.",
+    "image": "/projects/PerformTracker.png",
+    "techStack": [
+      "React",
+      "Redux.js",
+      "Firebase",
+      "TailwindCSS",
+      "Node.js",
+      "Express.js",
+      "MongoDB"
+    ],
+    "features": [
+      "Admin Dashboard: Manage employees, clients, teams, projects, and tasks",
+      "Employee Dashboard: Personal projects, profiles, and performance tracking",
+      "Client Dashboard: Project/task tracking, profile management, and activity insights",
+      "Payroll management and dynamic reports",
+      "Auth state management with secure role-based access",
+      "Blogs, pricing plans, and dynamic homepage features"
+    ],
+    "myContribution": [
+      "Employee Profile management",
+      "Projects and Teams module",
+      "Payroll integration",
+      "Dashboard Navbar and Sidebar",
+      "Auth State Management",
+      "Blogs & Pricing Plans",
+      "Dynamic Dashboard implementation"
+    ],
+    "category": "Business Management",
+    "githubFrontend": "https://github.com/rajutalukdar1/PerformTracker",
+    "githubBackend": "https://github.com/rajutalukdar1/PerformTracker-Server",
+    "liveDemo": "https://perform-tracker-5e95d.web.app/"
+  }
+]
